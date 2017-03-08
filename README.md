@@ -14,13 +14,13 @@ https://www.kaggle.com/anjalichappidi/tobacco-consumption
 
 - [ ] MapReduce
 
-Informacje o komputerze na ktĂłrym byĹ‚y wykonywane obliczenia:
+Informacje o komputerze na którym były wykonywane obliczenia:
 
-| Nazwa                 | WartosÄ‡    |
+| Nazwa                 | Wartość    |
 |-----------------------|------------|
 | System operacyjny     | Win 8.1 Pro x64 |
 | Procesor              | AMD APU A10-5700 |
-| PamiÄ™Ä‡              | 4GB |
+| Pamięć                | 4GB |
 | Dysk                  | SSD SP S55 240GB |
 | Baza danych           | MongoDB |
 
