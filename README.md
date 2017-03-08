@@ -4,7 +4,7 @@ projekt zaliczeniowy nosql
 ## Paweł Sielachowicz
 
 Wybrany zbior danych:
-
+https://www.kaggle.com/anjalichappidi/tobacco-consumption
 (zaliczenie)
 
 - [ ] EDA
