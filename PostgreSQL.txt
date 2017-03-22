@@ -1,0 +1,18 @@
+
+CREATE SCHEMA dd;
+
+CREATE TABLE dd.wwf
+(
+    "X" double precision,
+    "Y" double precision,
+    "FacilityName" text COLLATE pg_catalog."default",
+    "FacilityID" integer NOT NULL,
+    "WWInventoryURL" text COLLATE pg_catalog."default",
+    CONSTRAINT wwf_pkey PRIMARY KEY ("FacilityID")
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+\copy wwf FROM 'c:/wwf.csv' DELIMITER ',' CSV
