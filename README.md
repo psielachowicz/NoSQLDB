@@ -21,5 +21,5 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 | Procesor              | AMD APU A10-5700 |
 | Pamięć                | 4GB |
 | Dysk                  | SSD SP S55 240GB |
-| Baza danych           | MongoDB |
+| Baza danych           | PostgreSQL |
 
