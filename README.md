@@ -4,8 +4,7 @@ projekt zaliczeniowy nosql
 ## Paweł Sielachowicz
 
 Wybrany zbior danych:
-https://www.kaggle.com/orgesleka/used-cars-database
-(zaliczenie)
+https://catalog.data.gov/dataset/waste-water-facilities (zaliczenie)
 
 - [ ] EDA
 - [ ] Aggregation Pipeline
