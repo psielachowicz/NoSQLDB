@@ -10,6 +10,7 @@ https://catalog.data.gov/dataset/waste-water-facilities (zaliczenie)
 ### ZadanieGEO
 
 #### Elasticsearch
+0. Fiddler: http://www.telerik.com/fiddler
 1. Import danych z użyciem fiddler'a i pliku:
 -MAPDA.geojson
 
