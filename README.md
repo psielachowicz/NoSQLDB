@@ -11,10 +11,10 @@ https://catalog.data.gov/dataset/waste-water-facilities
 
 Podstawowe pola:
 
-"FacilityName":{"type":"text"} (Nazwa placówki)
-"FacilityID":{"type":"integer"} (ID)
-"WWInventoryURL":{"type":"text"} (Adres strony www)
-"geometry":{"type": "geo_point"} (kordynaty)
+- "FacilityName":{"type":"text"} (Nazwa placówki)
+- "FacilityID":{"type":"integer"} (ID)
+- "WWInventoryURL":{"type":"text"} (Adres strony www)
+- "geometry":{"type": "geo_point"} (kordynaty)
 
 #### Elasticsearch
 0. Fiddler: http://www.telerik.com/fiddler
