@@ -97,7 +97,9 @@ Podstawowe pola:
 2. Import danych za pomocą pgAdmin
 - tabela wwf > PPM import... c:/wwf.csv
 3. Zapytania 
-
+``` SQL
+SELECT * FROM tweet_pgh_small WHERE ST_MakeEnvelope(-79.9, 40.44, -79.899, 40.441, 4326) ~ coordinates;
+```
 
 
 - [ ] Aggregation Pipeline
