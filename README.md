@@ -13,6 +13,7 @@ https://catalog.data.gov/dataset/waste-water-facilities (zaliczenie)
 0. Fiddler: http://www.telerik.com/fiddler
 1. Import danych z użyciem fiddler'a i pliku:
 -MAPDA.geojson
+composer > post > http://localhost:9200/water/facilities
 
 #### PostgreSQL
 1. Utworzenie tabeli z pliku:
