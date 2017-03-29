@@ -22,7 +22,7 @@ Podstawowe pola:
 -MAPDA.geojson
 - composer > post > http://localhost:9200/water/facilities
 2. Zapytania
-'''ruby
+''' json
 {
     "query":{
         "bool": {
