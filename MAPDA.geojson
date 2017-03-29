@@ -1,0 +1,23 @@
+{"FacilityName":"Bennington","FacilityID":1,
+"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=1&option=view",
+"geometry":[-73.25802599999997,42.91513100000003]},
+
+{"FacilityName":"Barre City","FacilityID":2,
+"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=2&option=view",
+"geometry":[-72.52133199999997,44.21041500000007]}
+
+{"FacilityName":"Alburgh","FacilityID":3,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=3&option=view","geometry":[-73.30070569999998,44.97706460000006]}
+
+{"FacilityName":"Barton","FacilityID":4,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=4&option=view","geometry":[-72.18900299999996,44.75135400000005]}
+
+{"FacilityName":"Benson","FacilityID":5,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=5&option=view","geometry":[-73.30985999999996,43.70898800000003]}
+
+{"FacilityName":"Brighton","FacilityID":6,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=6&option=view","geometry":[-71.89018999999996,44.81295000000006]}
+
+{"FacilityName":"Danville","FacilityID":7,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=7&option=view","geometry":[-72.13135957699996,44.41149731500008]}
+
+{"FacilityName":"Pawlet","FacilityID":19,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=19&option=view","geometry":[-73.25270080599995,43.353729248000036]}
+
+{"FacilityName":"Williamstown","FacilityID":21,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=21&option=view","geometry":[-72.53292099999999,44.12744500000008]}
+
+{"FacilityName":"Winooski","FacilityID":22,"WWInventoryURL":"https://anrweb.vt.gov/DEC/WWInventory/UpdateFacility.aspx?F=22&option=view","geometry":[-73.19746999999995,44.490500000000054]}
