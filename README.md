@@ -7,6 +7,10 @@ Wybrany zbior danych:
 https://catalog.data.gov/dataset/waste-water-facilities (zaliczenie)
 
 - [ ] EDA
+###ZadanieGEO
+
+
+
 - [ ] Aggregation Pipeline
 
 (egzamin)
