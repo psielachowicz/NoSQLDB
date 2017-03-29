@@ -7,7 +7,9 @@ Wybrany zbior danych:
 https://catalog.data.gov/dataset/waste-water-facilities (zaliczenie)
 
 - [ ] EDA
-###ZadanieGEO
+##ZadanieGEO
+1. Import danych z użyciem fiddler'a
+-MAPDA.geojson
 
 
 
