@@ -22,6 +22,7 @@ Podstawowe pola:
 -MAPDA.geojson
 - composer > post > http://localhost:9200/water/facilities
 2. Zapytania
+- a) Koperta
 ``` json
 {
     "query":{
@@ -37,6 +38,51 @@ Podstawowe pola:
                             "coordinates" : [[13.0, 53.0], [14.0, 52.0]]
                         },
                         "relation": "within"
+                    }
+                }
+            }
+        }
+    }
+}
+```
+- b) Dystans
+``` json
+{
+    "query": {
+        "bool" : {
+            "must" : {
+                "match_all" : {}
+            },
+            "filter" : {
+                "geo_distance" : {
+                    "distance" : "200km",
+                    "pin.location" : {
+                        "lat" : 40,
+                        "lon" : -70
+                    }
+                }
+            }
+        }
+    }
+}
+```
+
+- c) Poligon
+``` json
+{
+    "query": {
+        "bool" : {
+            "must" : {
+                "match_all" : {}
+            },
+            "filter" : {
+                "geo_polygon" : {
+                    "person.location" : {
+                        "points" : [
+                        {"lat" : 40, "lon" : -70},
+                        {"lat" : 30, "lon" : -80},
+                        {"lat" : 20, "lon" : -90}
+                        ]
                     }
                 }
             }
