@@ -22,7 +22,7 @@ Podstawowe pola:
 -MAPDA.geojson
 - composer > post > http://localhost:9200/water/facilities
 2. Zapytania
-- a) Koperta
+- a) Koperta (Dokumentacja mock)
 ``` json
 {
     "query":{
@@ -45,7 +45,7 @@ Podstawowe pola:
     }
 }
 ```
-- b) Dystans
+- b) Dystans (Dokumentacja mock)
 ``` json
 {
     "query": {
@@ -67,7 +67,7 @@ Podstawowe pola:
 }
 ```
 
-- c) Poligon
+- c) Poligon (Dokumentacja mock)
 ``` json
 {
     "query": {
@@ -96,9 +96,9 @@ Podstawowe pola:
 -postgreSQL.txt
 2. Import danych za pomocą pgAdmin
 - tabela wwf > PPM import... c:/wwf.csv
-3. Zapytania 
+3. Zapytania (WWW mock) 
 ``` SQL
-SELECT * FROM tweet_pgh_small WHERE ST_MakeEnvelope(-79.9, 40.44, -79.899, 40.441, 4326) ~ coordinates;
+SELECT * FROM wwf WHERE ST_MakeEnvelope(-79.9, 40.44, -79.899, 40.441, 4326) ~ coordinates;
 ```
 
 
