@@ -94,7 +94,9 @@ Podstawowe pola:
 #### PostgreSQL
 1. Utworzenie tabeli z pliku:
 -postgreSQL.txt
-
+2. Import danych za pomocą pgAdmin
+- tabela wwf > PPM import... c:/wwf.csv
+3. Zapytania 
 
 
 
