@@ -10,11 +10,11 @@ https://catalog.data.gov/dataset/waste-water-facilities (zaliczenie)
 ### ZadanieGEO
 
 #### Elasticsearch
-1. Import danych z użyciem fiddler'a
+1. Import danych z użyciem fiddler'a i pliku:
 -MAPDA.geojson
 
 #### PostgreSQL
-1. Utworzenie tabeli 
+1. Utworzenie tabeli z pliku:
 -postgreSQL.txt
 
 - [ ] Aggregation Pipeline
